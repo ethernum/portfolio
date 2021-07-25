@@ -66,7 +66,7 @@ let resumeData = {
       skillname: "nextJS",
     },
   ],
-  comet: "   pouet",
+  comet: "   pouet modif",
   portfolio: [
     {
       name: "project1",
