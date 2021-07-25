@@ -33,6 +33,8 @@ let resumeData = {
     {
       CompanyName: "Cegedim",
       specialization: "Chef De Projet Technique",
+      MonthOfStarting: "Décembre",
+      YearOfStarting: "2019",
       MonthOfLeaving: "Poste",
       YearOfLeaving: " Actuel",
       Achievements: "",
@@ -40,6 +42,8 @@ let resumeData = {
     {
       CompanyName: "Hemmersbach",
       specialization: "Technicien Informatique",
+      MonthOfStarting: "Novembre",
+      YearOfStarting: "2017",
       MonthOfLeaving: "Décembre",
       YearOfLeaving: "2019",
       Achievements: "",

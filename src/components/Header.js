@@ -20,12 +20,12 @@ export default class Header extends Component {
               </li>
               <li>
                 <a className="smoothscroll" href="#about">
-                  About
+                  À Propos
                 </a>
               </li>
               <li>
                 <a className="smoothscroll" href="#resume">
-                  Resume
+                  Poste/Etude
                 </a>
               </li>
               <li>
