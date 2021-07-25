@@ -21,6 +21,10 @@ export default class Resume extends Component {
                         {item.specialization}
                         <span>&bull;</span>{" "}
                         <em className="date">
+                          {item.MonthOfStarting} {item.YearOfStarting}
+                        </em>
+                        <span>&rarr;</span>{" "}
+                        <em className="date">
                           {item.MonthOfPassing} {item.YearOfPassing}
                         </em>
                       </p>
@@ -50,7 +54,7 @@ export default class Resume extends Component {
                         <em className="date">
                           {item.MonthOfStarting} {item.YearOfStarting}
                         </em>
-                        <span>&bull;</span>{" "}
+                        <span>&rarr;</span>{" "}
                         <em className="date">
                           {item.MonthOfLeaving} {item.YearOfLeaving}
                         </em>

@@ -24,6 +24,8 @@ let resumeData = {
     {
       UniversityName: "Aforp Issy les Moulineaux",
       specialization: "BTS SIO",
+      MonthOfStarting: "Septembre",
+      YearOfStarting: "2015",
       MonthOfPassing: "Août",
       YearOfPassing: "2017",
       Achievements: "",
